@@ -1,22 +1,9 @@
 # qidian-hamibot
-基于hamibot的起点自动签到、做福利任务、领碎片，需手机亮屏且不锁屏，起点未打开或者在一级页面，具体功能如下：
+
+fork的[gofreeing/qidian-hamibot: 基于hamibot的起点自动签到、领碎片、做福利任务的脚本](https://github.com/gofreeing/qidian-hamibot)，修改后自用
+
+基于hamibot的起点自动签到、做福利任务，需手机亮屏且不锁屏，起点未打开或者在一级页面，具体功能如下：
 
 每日签到：抽奖，周日兑换章节卡
 
 福利中心：看所有视频
-
-福利中心：听书任务
-
-福利中心：玩游戏10分钟
-
-福利中心：自动兑换会员体验卡
-
-激励碎片：进入新书页面找红包位置看视频并领取碎片
-
-以上功能在配置中分三类，按需开启
-
-有能力的可以下载源码进行优化
-
-
-![image](https://github.com/gofreeing/qidian-hamibot/assets/56500905/d0116aee-9813-42c3-88a2-f753e4ecebb7)
-
